@@ -1016,7 +1016,7 @@ SECTIONS
     left: 0;
     bottom: 0;
     z-index: 1;
-    background: url(images/bg.png) repeat center center rgba(0, 0, 0, 0.7);
+    background: url(images/bg.png);
 }
 
 .video-section {
